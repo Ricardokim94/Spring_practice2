@@ -12,7 +12,7 @@
 	<c:set var="avg" value="${total /3}"/>
 	<table border="1">
 		<tr>
-			<th>번호</th>	
+			<th>번호</th>	 
 			<th>국어</th>	
 			<th>영어</th>	
 			<th>수학</th>	
