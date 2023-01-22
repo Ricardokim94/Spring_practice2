@@ -8,6 +8,6 @@
 <title>user Page</title>
 </head>
 <body>
-
+	<h3><c:out value="${id}님 환영합니다."/></h3>
 </body>
 </html>
